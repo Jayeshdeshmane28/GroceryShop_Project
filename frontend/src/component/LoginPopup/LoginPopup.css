@@ -62,3 +62,24 @@
     font-weight: 500;
     cursor: pointer;
 }
+.password-input-wrapper {
+    position: relative;
+    display: flex;
+    align-items: center;
+}
+
+.password-input-wrapper input {
+    width: 100%;
+    padding-right: 40px; /* space for the icon */
+}
+
+.toggle-password {
+    position: absolute;
+    right: 10px;
+    width: 20px;
+    cursor: pointer;
+    opacity: 0.6;
+}
+.toggle-password:hover {
+    opacity: 1;
+}

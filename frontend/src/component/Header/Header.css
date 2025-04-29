@@ -57,5 +57,11 @@
     }
     .header-contents button{
         padding: 2vw 4vw;
+        font-size: max(1vw,10px);   
+    }
+    .header-contents h2{
+  
+        color: rgb(11, 146, 33);
+        font-size: max(3.5vw, 18px);
     }
 }

@@ -1,0 +1,4 @@
+<!-- eye_off_icon.svg -->
+<svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
+  <path strokelinecap="round" strokelinejoin="round" strokewidth="{2}" d="M13.875 18.825A10.05 10.05 0 0112 19c-4.478 0-8.269-2.943-9.543-7a10.054 10.054 0 012.144-3.292m3.107-2.256A9.956 9.956 0 0112 5c4.477 0 8.268 2.943 9.542 7a9.967 9.967 0 01-4.337 5.223M15 12a3 3 0 00-3-3m0 0a3 3 0 00-3 3m3-3l8 8m-8-8l-8 8"></path>
+</svg>
